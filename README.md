@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Quantum Key Distribution Algorithms**
 
-- 🌱 I’m currently learning **Physical Modelling using Computational Methods**
+- 🌱 I’m currently practicing **Physical Modelling using Computational Methods**
 
 - 📫 How to reach me **danielecaruana2@gmail.com**
 
